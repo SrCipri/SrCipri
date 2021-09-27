@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SrCipri
+- 👀 I’m interested in coding, finance and hacking
+- 🌱 I’m currently learning java and python
+- 💞️ I’m looking to collaborate on Enacast
+- 📫 How to reach me cyberwhy101@gmail.com
